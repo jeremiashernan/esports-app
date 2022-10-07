@@ -1,0 +1,58 @@
+{
+  "eventTabs": {
+    "leaderboards": "Clasificación",
+    "matches": "Partidos",
+    "participants": "Participantes",
+    "playerStats": "Estadística de Jugadores",
+    "teamStats": "Estadística de Equipos"
+  },
+  "events": {
+    "date": "Fecha",
+    "event": "Evento",
+    "eventType": "Tipo de Evento",
+    "gameMode": "Modo de Juego",
+    "noResults": "No hay torneos para los filtros seleccionados.",
+    "organizer": "Organizador",
+    "prize": "Premio",
+    "region": "Región",
+    "runnerUp": "Subcampeón",
+    "teams": "Equipos",
+    "winner": "Ganador",
+    "rank": "Rango",
+    "team": "Equipo",
+    "prizing": "Premios",
+    "total": "Total",
+    "round": "Ronda"
+  },
+  "teamStats": {
+    "team": "Equipo",
+    "matches": "# de Partidos",
+    "total_points": "Puntos totales",
+    "avg_total_points": "Promedio total de puntos",
+    "wwcd": "WWCD",
+    "placement_points": "Puntos de colocación",
+    "kills": "Mata",
+    "avg_rank": "Rango promedio",
+    "avg_placement_points": "Puntos de ubicación promedio",
+    "avg_kills": "Asesinatos promedio",
+    "damage_dealt": "Daño infligido"
+  },
+  "playerStats": {
+    "team": "Equipo",
+    "player": "Jugador",
+    "matches": "# de Partidos",
+    "kills": "Mata",
+    "assists": "Asistencias",
+    "kda": "KDA",
+    "kd": "KD",
+    "kas": "KAS",
+    "knocks": "Golpes",
+    "damage_dealt": "Daño infligido",
+    "avg_damage_dealt": "Promedio de daño infligido",
+    "damage_taken": "Daño recibido",
+    "avg_damage_taken": "Promedio de daño recibido",
+    "revives": "Revive",
+    "headshot_kills": "Muertes por disparos en la cabeza",
+    "time_survived": "Tiempo sobrevivido"
+  }
+}

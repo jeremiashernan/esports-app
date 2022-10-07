@@ -1,0 +1,58 @@
+{
+  "eventTabs": {
+    "leaderboards": "Leaderboards",
+    "matches": "Matches",
+    "participants": "Participants",
+    "playerStats": "Player Stats",
+    "teamStats": "Team Stats"
+  },
+  "events": {
+    "date": "Date",
+    "event": "Event",
+    "eventType": "Event Type",
+    "gameMode": "Game Mode",
+    "noResults": "No tournaments for selected filters.",
+    "organizer": "Organizer",
+    "prize": "Prize",
+    "region": "Region",
+    "runnerUp": "Runner Up",
+    "teams": "Teams",
+    "winner": "Winner",
+    "rank": "Rank",
+    "team": "Team",
+    "prizing": "Prizing",
+    "total": "Total",
+    "round": "Round"
+  },
+  "teamStats": {
+    "team": "Team",
+    "matches": "# of Matches",
+    "total_points": "Total Points",
+    "avg_total_points": "Avg.Total Points",
+    "wwcd": "WWCD",
+    "placement_points": "Placement Points",
+    "kills": "Kills",
+    "avg_rank": "Avg.Rank",
+    "avg_placement_points": "Avg.Placement Points",
+    "avg_kills": "Avg.Kills",
+    "damage_dealt": "Damage Dealt"
+  },
+  "playerStats": {
+    "team": "Team",
+    "player": "Player",
+    "matches": "# of Matches",
+    "kills": "Kills",
+    "assists": "Assists",
+    "kda": "KDA",
+    "kd": "KD",
+    "kas": "KAS",
+    "knocks": "Knocks",
+    "damage_dealt": "Damage Dealt",
+    "avg_damage_dealt": "Avg.Damage Dealt",
+    "damage_taken": "Damage Taken",
+    "avg_damage_taken": "Avg.Damage Taken",
+    "revives": "Revives",
+    "headshot_kills": "Headshot Kills",
+    "time_survived": "Time Survived"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "notFound": "Página No Encontrada",
+  "title": "Ha habido una falla",
+  "text": "No se puede encontrar la página que ha solicitado. Es posible que la URL que solicitó se haya cambiado, eliminado o ya no exista.",
+  "button": "Página Principal"
+}

@@ -1,0 +1,64 @@
+{
+  "about": {
+    "text": "After quickly becoming the pre-eminent battle royale game for content creators, critics and fans in 2017, PUBG: BATTLEGROUNDS moved quickly to position ourselves as the most exciting battle royale esports.\n After years of innovation and events to ensure the development of battle royale at the global esports level, PUBG: BATTLEGROUNDS has become one of the highest prize money games of any genre. For the past three years, we have hosted approximately 40 official tournaments, and 60 more by our authorized partners, to pay out more than $15 million in cumulative prize money. PUBG Esports is committed to ensuring the holistic development of competitive PUBG: BATTLEGROUNDS across the globe and will continue to be a leader in battle royale.",
+    "title": "About PUBG Esports"
+  },
+  "activeEvents": "Upcoming and Active Events",
+  "allCategories": "All Categories",
+  "allNews": "All News",
+  "applyHere": "Apply here",
+  "bonusPrizing": "Bonus Prizing",
+  "broadcastTalent": "Broadcast Talent",
+  "category": "Category",
+  "completedEvents": "Completed Events",
+  "copyright": "© 2021 Krafton, Inc. PUBG is a registered trademark or service mark of Krafton, Inc.",
+  "eventDetails": "Event Details",
+  "eventInfo": "Event Info",
+  "featuredArticle": "Featured Article",
+  "follow": "Follow",
+  "followOn": "Follow on {{text}}",
+  "fullSchedule": "Full Schedule",
+  "getConnected": "Get Connected",
+  "i18n": {
+    "languages": {
+      "en": "North America - English",
+      "es": "Latin America - Spanish",
+      "europe": "Europe",
+      "global": "Global",
+      "pt": "Latin America - Portuguese"
+    },
+    "region": "Region",
+    "select": "Select Region"
+  },
+  "latestNews": "Latest News",
+  "loadMore": "Load More",
+  "match": "Match {{text}}",
+  "matchSchedule": "Match Schedule",
+  "newsletter": {
+    "error": "Already registered user",
+    "signUp": "Never Miss an Update!",
+    "success": "You have successfully submitted your email"
+  },
+  "numberOfTeams": "Number of Teams",
+  "presentedBy": "Presented By",
+  "prizingBreakdown": "Prizing Breakdown",
+  "readMore": "Read More",
+  "relatedNews": "Related News",
+  "searchArticles": "Search Articles",
+  "searchEvents": "Search Events",
+  "searchNotFound": "No results were found",
+  "searchResults": "Search Result for \"{{result}}\"",
+  "seo": {
+    "description": "The official PUBG Esports portal",
+    "title": "PUBG Esports | North America"
+  },
+  "shareThis": "Share This",
+  "submit": "Submit",
+  "subscribe": "Subscribe",
+  "subscribeOn": "Subscribe on {{text}}",
+  "totalPrizePool": "Total Prize Pool",
+  "tournamentFormat": "Tournament Format",
+  "tournamentRules": "Tournament Rules",
+  "wantYouEvent": "Want your event to be featured? ",
+  "watchNow": "Watch Now"
+}

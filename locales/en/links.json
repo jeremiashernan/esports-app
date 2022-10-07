@@ -1,0 +1,68 @@
+{
+  "menuLinks": {
+    "about": {
+      "label": "About",
+      "url": "/about"
+    },
+    "events": {
+      "label": "Events",
+      "url": "/events"
+    },
+    "news": {
+      "label": "News",
+      "url": "/news"
+    },
+    "pgc": {
+      "label": "PGC Points Table",
+      "url": "/news/pubg-global-championship-2022-americas-points-leaderboard"
+    },
+    "schedule": {
+      "label": "Schedule",
+      "url": "/schedule"
+    },
+    "standings": {
+      "label": "Standings",
+      "url": "/standings"
+    },
+    "teams": {
+      "label": "Teams",
+      "url": "/teams"
+    }
+  },
+  "pageLinks": {
+    "eula": {
+      "label": "EULA",
+      "url": "/eula"
+    },
+    "playerCreatedContent": {
+      "label": "Player-Created Content",
+      "url": "/player-created-content"
+    },
+    "privacyPolicy": {
+      "label": "Privacy Policy",
+      "url": "https://na.battlegrounds.pubg.com/pp-website/"
+    },
+    "privacyPolicyCalifornia": {
+      "label": "Privacy Policy Notice for California Residents",
+      "url": "https://na.battlegrounds.pubg.com/privacy-notice-for-california-residents/"
+    },
+    "rulesOfCondut": {
+      "label": "Rules of Conduct",
+      "url": "https://na.battlegrounds.pubg.com/roc-steam/"
+    },
+    "termsOfService": {
+      "label": "Terms of Service",
+      "url": "https://na.battlegrounds.pubg.com/tos-website/"
+    }
+  },
+  "socialLinks": {
+    "discord": "https://discord.gg/x9qEMvCv",
+    "facebook": "https://www.facebook.com/PUBGUSOfficial",
+    "instagram": "https://www.instagram.com/pubgesports",
+    "reddit": "https://www.reddit.com/r/CompetitivePUBG",
+    "tiktok": "https://www.tiktok.com/@pubg.esports.official?lang=en",
+    "twitch": "https://www.twitch.tv/PUBG_Battlegrounds",
+    "twitter": "https://twitter.com/PUBGEsports",
+    "youtube": "https://www.youtube.com/PUBGEsports"
+  }
+}

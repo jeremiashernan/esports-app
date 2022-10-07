@@ -1,0 +1,41 @@
+{
+  "applyForm": {
+    "applyFormTitle": "Formulario de aplicación",
+    "emailAddress": "Dirección de correo electrónico",
+    "endDate": "Fecha final",
+    "eventName": "Nombre del evento",
+    "eventType": "Tipo de evento",
+    "gameMode": "Modo de juego",
+    "location": "Localización",
+    "numberOfTeams": "Numero de equipos",
+    "organizer": "Organizador",
+    "region": "Región",
+    "startDate": "Fecha de inicio",
+    "totalPrizeAmount": "Monto total del premio",
+    "yourFirstName": "Su nombre"
+  },
+  "buttons": {
+    "details": "Detalles"
+  },
+  "eventsFilters": {
+    "clearFilters": "Limpiar Filtros",
+    "eventType": "Tipo de Evento",
+    "platform": "Plataforma",
+    "region": "Región",
+    "year": "Año"
+  },
+  "newsletter": {
+    "country": "País",
+    "email": "Correo Electrónico",
+    "name": "Nombre de Pila"
+  },
+  "participantsFilters": {
+    "allLobbies": "Todos os Lobbies",
+    "allRounds": "Todas as Rodadas"
+  },
+  "submit": "Enviar",
+  "validation": {
+    "email": "Este campo debe ser un correo electrónico válido",
+    "required": "Este campo es obligatorio"
+  }
+}

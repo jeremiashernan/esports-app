@@ -1,0 +1,34 @@
+{
+  "sliders": {
+    "1": {
+      "label": "Coverage",
+      "title": "PCS5 Americas Grand Final: Viewers Guide",
+      "text": "The wait is finally over! Soon, sixteen of the region's best teams will descend onto the battlegrounds for the PUBG Continental Series 5 Americas Grand Final.",
+      "button": "Event Details"
+    },
+    "2": {
+      "label": "Global Event",
+      "title": "Introducing PUBG Global Championship 2021",
+      "text": "The year 2021 was another tough one due to the ongoing COVID-19 pandemic, but we’ve done our best to continue PUBG Esports globally by hosting PGI.S and 2 PUBG Continental Series events.",
+      "button": "Event Details"
+    },
+    "3": {
+      "label": "GLobal Event",
+      "title": "PCS5 Broadcasting Channels, Talent, and More",
+      "text": "The last battle for PGC, PUBG CONTINENTAL SERIES 5 (PCS5) is just around the corner!",
+      "button": "Event Details"
+    },
+    "4": {
+      "label": "Global Event",
+      "title": "PCS5 Pick'em Challenge",
+      "text": "The final battle for PGC, PUBG CONTINENTAL SERIES 5 is just around the corner!",
+      "button": "Event Details"
+    },
+    "5": {
+      "label": "Global Event",
+      "title": "PCS5 Participating Teams and Schedules",
+      "text": "Hello PUBG Esports fans! The final battle for PGC, PUBG CONTINENTAL SERIES 5 (PCS5) has arrived!",
+      "button": "Event Details"
+    }
+  }
+}

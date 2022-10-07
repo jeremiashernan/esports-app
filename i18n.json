@@ -1,0 +1,11 @@
+{
+  "defaultLocale": "en",
+  "localeDetection": false,
+  "locales": ["en", "es", "pt"],
+  "pages": {
+    "*": ["common", "links", "forms", "tables", "404"],
+    "/": ["heroBanner"],
+    "/apply": ["apply"],
+    "/privacy-policy": ["privacyPolicy"]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "applyForm": {
+    "applyFormTitle": "Application Form",
+    "emailAddress": "Email Address",
+    "endDate": "End Date",
+    "eventName": "Event Name",
+    "eventType": "Event Type",
+    "gameMode": "Game Mode",
+    "location": "Location",
+    "numberOfTeams": "Number of Teams",
+    "organizer": "Organizer",
+    "region": "Region",
+    "startDate": "Start Date",
+    "totalPrizeAmount": "Total Prize Amount",
+    "yourFirstName": "Your First Name"
+  },
+  "buttons": {
+    "details": "Details"
+  },
+  "eventsFilters": {
+    "clearFilters": "Clear Filters",
+    "eventType": "Event Type",
+    "platform": "Platform",
+    "region": "Region",
+    "year": "Year"
+  },
+  "newsletter": {
+    "country": "Country",
+    "email": "Email Address",
+    "name": "First Name"
+  },
+  "participantsFilters": {
+    "allLobbies": "All Lobbies",
+    "allRounds": "All Rounds"
+  },
+  "submit": "Submit",
+  "validation": {
+    "email": "This field must be a valid email",
+    "required": "This field is required"
+  }
+}

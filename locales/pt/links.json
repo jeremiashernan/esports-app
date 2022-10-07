@@ -1,0 +1,68 @@
+{
+  "menuLinks": {
+    "about": {
+      "label": "Sobre",
+      "url": "/about"
+    },
+    "events": {
+      "label": "Eventos",
+      "url": "/events"
+    },
+    "news": {
+      "label": "Notícias",
+      "url": "/news"
+    },
+    "pgc": {
+      "label": "PGC Tabela de Pontos",
+      "url": "/news/pubg-global-championship-2022-americas-points-leaderboard"
+    },
+    "schedule": {
+      "label": "Calendário",
+      "url": "/schedule"
+    },
+    "standings": {
+      "label": "Classificação",
+      "url": "/standings"
+    },
+    "teams": {
+      "label": "Equipes",
+      "url": "/teams"
+    }
+  },
+  "pageLinks": {
+    "eula": {
+      "label": "EULA",
+      "url": "/eula"
+    },
+    "playerCreatedContent": {
+      "label": "Conteúdo Criado por Jogador",
+      "url": "/player-created-content"
+    },
+    "privacyPolicy": {
+      "label": "Política de Privacidade",
+      "url": "https://latam.battlegrounds.pubg.com/pt-br/pp-website/"
+    },
+    "privacyPolicyCalifornia": {
+      "label": "Política de Privacidade para Residentes da Califórnia",
+      "url": "https://na.battlegrounds.pubg.com/privacy-notice-for-california-residents/"
+    },
+    "rulesOfCondut": {
+      "label": "Regras de Conduta",
+      "url": "https://latam.battlegrounds.pubg.com/pt-br/roc-steam/"
+    },
+    "termsOfService": {
+      "label": "Termos de Serviços",
+      "url": "https://latam.battlegrounds.pubg.com/pt-br/tos-website/"
+    }
+  },
+  "socialLinks": {
+    "discord": "https://discord.gg/pubg-brasil",
+    "facebook": "https://www.facebook.com/PUBGesportsBRA",
+    "instagram": "https://www.instagram.com/pubgesportsbra",
+    "reddit": "https://www.reddit.com/r/CompetitivePUBG",
+    "tiktok": "https://www.tiktok.com/@pubg_br",
+    "twitch": "https://www.twitch.tv/pubg_br",
+    "twitter": "https://twitter.com/PUBGEsportsBRA",
+    "youtube": "https://www.youtube.com/PUBG_BR"
+  }
+}
